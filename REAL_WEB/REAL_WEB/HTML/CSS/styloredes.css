@@ -1,0 +1,10 @@
+*¨{
+    padding: 0%;
+    margin: 0;
+}
+.ajusteVideo,.videoconfig{
+    height: 1280px;
+    width: 1980px;
+    align-content: center;
+    justify-content: center;
+}
